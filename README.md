@@ -1,3 +1,23 @@
+<!-- EFFECTS-BLOCK:START -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F6F1EA&height=180&section=header&text=Nps%20Ai%20Assistant&fontSize=44&fontColor=111111&desc=End-to-end%20AI%20assistant%20pipeline%20for%20NPS%20intelligence%2C%20response%20generation%2C%20and%20workflow%20orchestration.&descSize=14&descAlignY=68" alt="Nps Ai Assistant" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mohamedzuhair17/nps-ai-assistant"><img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github" alt="repo" /></a>
+  <img src="https://img.shields.io/github/stars/Mohamedzuhair17/=for-the-badge&color=111111" alt="stars" />
+  <img src="https://img.shields.io/github/forks/Mohamedzuhair17/=for-the-badge&color=111111" alt="forks" />
+  <img src="https://img.shields.io/github/last-commit/Mohamedzuhair17/=for-the-badge&color=111111" alt="last commit" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Stack-TypeScript-F6F1EA?style=for-the-badge&labelColor=111111&color=F6F1EA" alt="stack" />
+  <img src="https://img.shields.io/badge/Engineering-Production%20Grade-111111?style=for-the-badge" alt="engineering" />
+</p>
+<!-- EFFECTS-BLOCK:END -->
+
+---
+
 
 # NPS - AI Assistant 🚀
 
